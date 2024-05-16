@@ -138,15 +138,10 @@ void loop() {
 }
 ```
 # CIRCUIT DIAGRAM:
-
 ![image](https://github.com/dinesh2068/Soil-moisture-sensor-interfacing-with-IoT-controller-and-uploading-the-data-in-the-cloud./assets/151390189/537bbc7e-776f-4fe1-8336-c939b3dc079a)
-
 # OUTPUT:
 ![image](https://github.com/dinesh2068/Soil-moisture-sensor-interfacing-with-IoT-controller-and-uploading-the-data-in-the-cloud./assets/151390189/1fc78cae-d17b-4be7-9aca-22201ff762cc)
-
 ![image](https://github.com/dinesh2068/Soil-moisture-sensor-interfacing-with-IoT-controller-and-uploading-the-data-in-the-cloud./assets/151390189/38062a04-be9b-44ea-8d28-9e93c1460c73)
 
-
 # RESULT:
-
 Thus the Soil-moisture sensor value is uploaded in the Things mate using Arduino controller.
